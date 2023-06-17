@@ -1,9 +1,5 @@
 multiCameraLogicalXMLFile=redwood.xml
 multiCameraHWSyncMask=0x0
-logInfoMask=0x0
-overrideLogLevels=0x1
-logConfigMask=0x0
-logWarningMask=0
 systemLogEnable=TRUE
 logCoreCfgMask=0
 enableAsciiLogging=FALSE
